@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "name": "Bennito Camelo",
+      "email": "Bennito.Daugherty95@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Hermina",
+      "email": "Dejuan6@yahoo.com"
+    },
+    {
+      "id": 6,
+      "name": "Sigmund",
+      "email": "Wilton.Christiansen63@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Manley",
+      "email": "Vinnie_Murray25@hotmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Celestine",
+      "email": "Sam1@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Drew",
+      "email": "Eliezer_Gleason@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Toni",
+      "email": "Donavon_Gorczany29@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Anne",
+      "email": "Adriel_Champlin96@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Rosella",
+      "email": "Brandi.DAmore23@gmail.com"
+    },
+    {
+      "id": 13,
+      "name": "Barbara",
+      "email": "Myron.Witting46@hotmail.com"
+    },
+    {
+      "id": 14,
+      "name": "Trent",
+      "email": "Earnest.Collier61@hotmail.com"
+    },
+    {
+      "id": 15,
+      "name": "Antonette",
+      "email": "Larue_Friesen@hotmail.com"
+    },
+    {
+      "id": 16,
+      "name": "Aimee",
+      "email": "Larry21@yahoo.com"
+    },
+    {
+      "id": 17,
+      "name": "Mitchell",
+      "email": "Ona33@yahoo.com"
+    },
+    {
+      "id": 18,
+      "name": "Eino",
+      "email": "Cortney.Bayer@yahoo.com"
+    },
+    {
+      "id": 19,
+      "name": "Elvis",
+      "email": "Delphine_Hane@hotmail.com"
+    },
+    {
+      "id": 20,
+      "name": "Halle",
+      "email": "Agustin.Baumbach@gmail.com"
+    },
+    {
+      "id": 21,
+      "name": "Daarlene",
+      "email": "Dannie41@yahoo.com"
+    },
+    {
+      "name": "test",
+      "email": "algo@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Heriberto Sosa",
+      "email": "sosaheriberto2021@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "test31",
+      "email": "algo@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Heriberto Sosa",
+      "email": "asda",
+      "id": 32
+    },
+    {
+      "name": "Arcadia",
+      "email": "Arcadia.Daugherty95@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Heriberto Sosa",
+      "email": "sosaheriberto2001@gmail.com",
+      "id": 35
+    }
+  ]
+}
